@@ -1,2 +1,4 @@
 # hello_world
-First thing on git
+First thing on Git.
+
+Trying something.
